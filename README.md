@@ -1,2 +1,2 @@
 # adventofcode
-Solutions for Advent of Code puzzles (http://adventofcode.com/) :christmas_tree:
+My solutions for Advent of Code puzzles (http://adventofcode.com/) :christmas_tree:
